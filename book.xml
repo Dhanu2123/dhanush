@@ -1,0 +1,28 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type="text/css" href="library.css"?>
+<catalog>
+<book>
+<title>Bible</title>
+<author>winston</author>
+<publication>weily</publication>
+<edition>second</edition>
+<isbn>12-2333-444</isbn>
+<price>$50</price>
+</book>
+<book>
+<title>Mahabharatham</title>
+<author>vedha</author>
+<publication>Krishna publications</publication>
+<edition>ninth</edition>
+<isbn>12-2333-445</isbn>
+<price>$100</price>
+</book>
+<book>
+<title>Geethangali</title>
+<author>tagore</author>
+<publication>syam publications</publication>
+<edition>third</edition>
+<isbn>12-2333-446</isbn>
+<price>$200</price>
+</book>                                                                    
+</catalog>
